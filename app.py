@@ -19,6 +19,8 @@ DESCRIPTION = """
 Software Developer.
 """
 EMAIL = "yadavpradeep2313@gmail.com"
+
+# --- Social Links ---
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/pradeep-yadav-5aa47a20b/",
     "GitHub": "https://github.com/Pradeep9651",
@@ -60,7 +62,7 @@ with col2:
 
 
 # --- SOCIAL LINKS ---
-st.write('\n')
+st.write('#')
 cols = st.columns(len(SOCIAL_MEDIA))
 for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
     cols[index].write(f"[{platform}]({link})")
