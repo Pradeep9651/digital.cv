@@ -18,12 +18,12 @@ NAME = "Pradeep Yadav"
 DESCRIPTION = """
 Senior Data Analyst, assisting enterprises by supporting data-driven decision-making.
 """
-EMAIL = "johndoe@email.com"
+EMAIL = "yadavpradeep@gmail.com"
 SOCIAL_MEDIA = {
-    "YouTube": "https://youtube.com/c/codingisfun",
-    "LinkedIn": "https://linkedin.com",
-    "GitHub": "https://github.com",
+    "LinkedIn": "https://www.linkedin.com/in/pradeep-yadav-5aa47a20b/",
+    "GitHub": "https://github.com/Pradeep9651",
     "Twitter": "https://twitter.com",
+    "leetcode":"https://leetcode.com/u/yadavpradeep2313/"
 }
 PROJECTS = {
     "🏆 Sales Dashboard - Comparing sales across three stores": "https://youtu.be/Sb0A9i6d320",
