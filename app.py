@@ -12,7 +12,7 @@ profile_pic = current_dir / "assets" / "profile-pic.jpg"
 
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | John Doe"
+PAGE_TITLE = "Digital CV | Pradeep Yadav"
 PAGE_ICON = ":wave:"
 NAME = "Pradeep Yadav"
 DESCRIPTION = """
