@@ -62,14 +62,14 @@ with col2:
 
 
 # --- SOCIAL LINKS ---
-st.write('#')
+st.write("#")
 cols = st.columns(len(SOCIAL_MEDIA))
 for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
     cols[index].write(f"[{platform}]({link})")
 
 
 # --- Education & QUALIFICATIONS ---
-st.write('\n')
+st.write("#")
 st.subheader("Education & QUALIFICATIONS")
 st.write(
     """
@@ -82,7 +82,7 @@ st.write(
 
 
 # --- SKILLS ---
-st.write('\n')
+st.write("#")
 st.subheader("Hard Skills")
 st.write(
     """
@@ -95,7 +95,7 @@ st.write(
 
 
 # --- TRAINING/ CERTIFICATION COURSES ---
-st.write('\n')
+st.write("#")
 st.subheader("TRAINING/ CERTIFICATION COURSES")
 st.write("---")
 
@@ -104,16 +104,16 @@ st.write("🚧", "**Python Programming**")
 
 
 # --- Certification 2
-st.write('\n')
+st.write("#")
 st.write("🚧", "**Data Analytics Virtual experience**")
 
 
 # --- Certification 3
-st.write('\n')
+st.write("#")
 st.write("🚧", "**Full stack development**")
 
 # --- Projects & Accomplishments ---
-st.write('\n')
+st.write("#")
 st.subheader("Projects & Accomplishments")
 st.write("---")
 for project, link in PROJECTS.items():
