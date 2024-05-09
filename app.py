@@ -66,15 +66,15 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
     cols[index].write(f"[{platform}]({link})")
 
 
-# --- EXPERIENCE & QUALIFICATIONS ---
+# --- Education & QUALIFICATIONS ---
 st.write('\n')
-st.subheader("Experience & Qulifications")
+st.subheader("Education & QUALIFICATIONS")
 st.write(
     """
-- ✔️ 7 Years expereince extracting actionable insights from data
-- ✔️ Strong hands on experience and knowledge in Python and Excel
-- ✔️ Good understanding of statistical principles and their respective applications
-- ✔️ Excellent team-player and displaying strong sense of initiative on tasks
+- ✔️ Bachelor of Information Technology., United Institute Of Technology Expected 2024
+- ✔️ High School (X) , Kendriya Vidyalaya, CBSE Board . 2018
+- ✔️Intermediate (XII) , Ramanujan Public School, CBSE Board . 2020
+
 """
 )
 
@@ -84,17 +84,17 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, VBA
+- 👩‍💻 Programming: Python, SQL, VBA, C++
 - 📊 Data Visulization: PowerBi, MS Excel, Plotly
 - 📚 Modeling: Logistic regression, linear regression, decition trees
-- 🗄️ Databases: Postgres, MongoDB, MySQL
+- 🗄️ Databases: MongoDB, MySQL
 """
 )
 
 
-# --- WORK HISTORY ---
+# --- TRAINING/ CERTIFICATION COURSES ---
 st.write('\n')
-st.subheader("Work History")
+st.subheader("TRAINING/ CERTIFICATION COURSES")
 st.write("---")
 
 # --- JOB 1
