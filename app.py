@@ -3,6 +3,7 @@ from pathlib import Path
 import streamlit as st
 from PIL import Image
 
+lottie_coding = "https://app.lottiefiles.com/animation/272fb5b7-a1fb-4e24-aeb6-ce94eec51b6b"
 
 # --- PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
